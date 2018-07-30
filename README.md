@@ -26,3 +26,5 @@ Example content of list.txt:
 ```
 
 Essentially, list.txt is a quick and dirty file-based JSON-formatted database which tells you 1) which files need to be downloaded and 2) which files have already been downloaded.
+
+I worked on this project to help me easily download a list of known recordings of public domain meetings for my town, to be posted on YouTube, to make them more widely available.
